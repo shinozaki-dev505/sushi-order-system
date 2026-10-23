@@ -61,9 +61,10 @@ cd sushi-order-system
 ### 2. 環境変数の設定
 ```bash
 cp .env.example .env
+```
 
 ### 3. パッケージのインストール & アプリ起動
-
+```bash
 # Composer パッケージのインストール & Sail 起動
 docker run --rm \
     -u "$(id -u):$(id -g)" \
