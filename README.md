@@ -55,7 +55,6 @@ SPA（Single Page Application）ライクな快適な操作性を実現し、店
 ### 1. リポジトリのクローン
 ```bash
 git clone https://github.com/shinozaki-dev505/sushi-order-system.git
-cd sushi-order-system
 ```
 
 ### 2. 環境変数の設定
