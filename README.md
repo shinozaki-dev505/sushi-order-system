@@ -50,15 +50,15 @@ SPA（Single Page Application）ライクな快適な操作性を実現し、店
 - **4. 管理者機能（バックオフィス用）**
 - 🗂️ メニュー管理
 寿司ネタやサイドメニューの新規追加、価格・カテゴリの編集、画像設定、不要なメニューの削除を柔軟に行えます。
-<img width="1208" height="1126" alt="localhost_admin_menus_index" src="https://github.com/user-attachments/assets/0b3567be-4c46-474e-9767-631b1daae52b" />
+<img width="600" height="600" alt="localhost_admin_menus_index" src="https://github.com/user-attachments/assets/0b3567be-4c46-474e-9767-631b1daae52b" />
 
 - 📈 売上集計（日別売上）
 日別や時間帯別の注文数・売上金額を自動集計し、店舗の販売動向をひと目で把握できます。
-<img width="1208" height="1641" alt="localhost_admin_sales_index" src="https://github.com/user-attachments/assets/2364611f-3bde-47c0-b93f-ac95ec434cd0" />
+<img width="600" height="1200" alt="localhost_admin_sales_index" src="https://github.com/user-attachments/assets/2364611f-3bde-47c0-b93f-ac95ec434cd0" />
 
 - 👥 ユーザー管理
 システムを利用するスタッフや管理者アカウントの登録状況の確認、権限管理、アカウントの編集・削除が行えます。
-<img width="1226" height="911" alt="localhost_admin_users" src="https://github.com/user-attachments/assets/69005464-a2f5-420f-bcdb-def059756023" />
+<img width="600" height="600" alt="localhost_admin_users" src="https://github.com/user-attachments/assets/69005464-a2f5-420f-bcdb-def059756023" />
 
 ---
 
