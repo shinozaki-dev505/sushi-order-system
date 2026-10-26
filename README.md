@@ -109,12 +109,14 @@ docker run --rm \
 
 ./vendor/bin/sail up -d
 ```
+💡 解説: まだPHP環境が立ち上がっていない状態のため、Dockerの一時コンテナを用いて必要なPHPライブラリ（Composer）をインストールし、その後Laravel SailでWebサーバーやデータベース等の環境を一式起動しています。
 
 ### 4. アプリケーションキーの生成 & マイグレーション
 ```bash
 ./vendor/bin/sail artisan key:generate
 ./vendor/bin/sail artisan migrate --seed
 ```
+💡 解説: セキュリティに必要な暗号鍵を自動生成した後、MySQL内に寿司のメニューやテスト用アカウントなどの初期データを流し込み、すぐに動作確認できる状態を整えます。
 
 ### 5. フロントエンドのビルド・起動
 ```bash
