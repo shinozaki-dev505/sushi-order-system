@@ -45,7 +45,7 @@ SPA（Single Page Application）ライクな快適な操作性を実現し、店
 - **3. 会計機能（顧客 / ホール用）**
 - お会計詳細・完了画面
 - テーブルごとの注文履歴と合計金額を一覧で確認し、ワンクリックで正確かつスピーディに会計処理を完了できます。  
-<img width="1208" height="973" alt="localhost_checkout_1" src="https://github.com/user-attachments/assets/af4b3f92-5837-4362-9743-7af68935c290" />
+<img width="600" height="600" alt="localhost_checkout_1" src="https://github.com/user-attachments/assets/af4b3f92-5837-4362-9743-7af68935c290" />
 
 - **4. 管理者機能（バックオフィス用）**
 - 🗂️ メニュー管理
