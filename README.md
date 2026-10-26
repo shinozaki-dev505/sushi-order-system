@@ -34,9 +34,9 @@ SPA（Single Page Application）ライクな快適な操作性を実現し、店
 
 - **寿司注文管理システムシステム　厨房管理機能（キッチン用）**
 ステータス変更
-<img width="1208" height="1005" alt="localhost_kitchen" src="https://github.com/user-attachments/assets/c2ac5b6c-6e4a-428a-a115-04c332f26b48" />
-<img width="1208" height="1005" alt="localhost_kitchen (1)" src="https://github.com/user-attachments/assets/4d764731-5a16-49fd-8d56-3f3f525e0da4" />
-<img width="1208" height="1005" alt="localhost_kitchen (2)" src="https://github.com/user-attachments/assets/cc4debca-75ef-48c8-b670-ae6c92a982f7" />
+<img width="500" height="500" alt="localhost_kitchen" src="https://github.com/user-attachments/assets/c2ac5b6c-6e4a-428a-a115-04c332f26b48" />
+<img width="500" height="500" alt="localhost_kitchen (1)" src="https://github.com/user-attachments/assets/4d764731-5a16-49fd-8d56-3f3f525e0da4" />
+<img width="500" height="500" alt="localhost_kitchen (2)" src="https://github.com/user-attachments/assets/cc4debca-75ef-48c8-b670-ae6c92a982f7" />
 
 - **寿司注文管理システムシステム　会計画面（顧客/ホール）**
 <img width="1208" height="973" alt="localhost_checkout_1" src="https://github.com/user-attachments/assets/af4b3f92-5837-4362-9743-7af68935c290" />
