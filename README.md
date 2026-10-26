@@ -28,27 +28,36 @@ SPA（Single Page Application）ライクな快適な操作性を実現し、店
 ---
 
 ## ✨ 画面イメージ
-- **寿司注文管理システムシステム　（顧客/ホール用）**
-
+各画面の役割や、実際の店舗オペレーションの流れに沿ってご紹介します。
+- **1. 注文機能（顧客 / ホール用）**
+卓番号 1番席：注文画面
+顧客やホールスタッフがテーブルごとに商品をスムーズに選択し、リアルタイムで現在の注文リストを確認・追加できるメイン画面です。
 <img width="1208" height="945" alt="localhost_table_1" src="https://github.com/user-attachments/assets/ef53a324-1e88-42e3-b611-547cd0d994aa" />
 
-- **寿司注文管理システムシステム　厨房管理機能（キッチン用）**
-ステータス変更(調理開始→お届けへ→提供完了)
+- **2. 厨房管理機能（キッチン用）**
+- 厨房モニター：リアルタイム調理ステータス管理
+注文が入ると厨房モニターに即座に反映されます。ボタン一つで 調理開始 ➔ お届けへ ➔ 提供完了 へとステータスをライブ感を持って切り替えられます。
 
 <img width="500" height="500" alt="localhost_kitchen" src="https://github.com/user-attachments/assets/c2ac5b6c-6e4a-428a-a115-04c332f26b48" />
 <img width="500" height="500" alt="localhost_kitchen (1)" src="https://github.com/user-attachments/assets/4d764731-5a16-49fd-8d56-3f3f525e0da4" />
 <img width="500" height="500" alt="localhost_kitchen (2)" src="https://github.com/user-attachments/assets/cc4debca-75ef-48c8-b670-ae6c92a982f7" />
 
-- **寿司注文管理システムシステム　会計画面（顧客/ホール）**
+- **3. 会計機能（顧客 / ホール用）**
+- お会計詳細・完了画面
+- テーブルごとの注文履歴と合計金額を一覧で確認し、ワンクリックで正確かつスピーディに会計処理を完了できます。  
 <img width="1208" height="973" alt="localhost_checkout_1" src="https://github.com/user-attachments/assets/af4b3f92-5837-4362-9743-7af68935c290" />
 
-- **寿司注文管理システムシステム　管理者機能（バックオフィス用）　メニュー管理**
+- **4. 管理者機能（バックオフィス用）**
+- 🗂️ メニュー管理
+寿司ネタやサイドメニューの新規追加、価格・カテゴリの編集、画像設定、不要なメニューの削除を柔軟に行えます。
 <img width="1208" height="1126" alt="localhost_admin_menus_index" src="https://github.com/user-attachments/assets/0b3567be-4c46-474e-9767-631b1daae52b" />
 
-- **寿司注文管理システムシステム　管理者機能（バックオフィス用）　売上管理**
+- 📈 売上集計（日別売上）
+日別や時間帯別の注文数・売上金額を自動集計し、店舗の販売動向をひと目で把握できます。
 <img width="1208" height="1641" alt="localhost_admin_sales_index" src="https://github.com/user-attachments/assets/2364611f-3bde-47c0-b93f-ac95ec434cd0" />
 
-- **寿司注文管理システムシステム　管理者機能（バックオフィス用）　ユーザー管理**
+- 👥 ユーザー管理
+システムを利用するスタッフや管理者アカウントの登録状況の確認、権限管理、アカウントの編集・削除が行えます。
 <img width="1226" height="911" alt="localhost_admin_users" src="https://github.com/user-attachments/assets/69005464-a2f5-420f-bcdb-def059756023" />
 
 ---
