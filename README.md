@@ -126,7 +126,9 @@ docker run --rm \
 
 ### 6. アクセス
 - **ブラウザで http://localhost にアクセスしてください。
-
+- **注文画面（例: 1番席）:** http://localhost/table/1
+- **厨房モニター画面:** http://localhost/kitchen
+- **管理者画面（メニュー管理など）:** http://localhost/admin/menus
 
 ### 開発の工夫・こだわりポイント
 1. Inertia.js × React によるシームレスなUI/UX:
